@@ -1,3 +1,5 @@
+FROM python:3.9-slim
+
 WORKDIR /app
 
 # install required packages for system
